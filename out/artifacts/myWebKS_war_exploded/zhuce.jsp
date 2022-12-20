@@ -15,7 +15,7 @@
     <title>注册页面</title>
     <style>
         body {
-            background: url('images/beijing01.jpg') no-repeat;
+            background: url('images/beijing1.jpg') no-repeat;
             background-size: 100% auto;
         }
 
